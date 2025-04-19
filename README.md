@@ -15,8 +15,7 @@ Tenho uma abordagem colaborativa e proativa, buscando constantemente aprimorar m
 * <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
 * <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
 
-**Estatísticas**
-[![Talis Reis github stats](https://github-readme-stats-one-bice.vercel.app/api?username=thiagobuenos&theme=dark&include_all_commits=true&show_icons=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&include_orgs=true)](https://github.com/Talis-Reis)
+[![Talis Reis github stats](https://github-readme-stats-one-bice.vercel.app/api?username=Talis-Reis&theme=dark&include_all_commits=true&show_icons=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&include_orgs=true)](https://github.com/Talis-Reis)
 
 ## 🤝 Conecte-se comigo:
 
