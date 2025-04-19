@@ -18,5 +18,6 @@ Tenho uma abordagem colaborativa e proativa, buscando constantemente aprimorar m
 ## 🤝 Conecte-se comigo:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/talis-reis-desenvolvedor/)
+[![Website](https://img.shields.io/badge/Website-43853D?style=for-the-badge&logo=rss&logoColor=white)](https://www.talis.dev/)
 
 Sinta-se à vontade para explorar meus repositórios e entrar em contato! 😊
