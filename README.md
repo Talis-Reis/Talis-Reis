@@ -1,32 +1,19 @@
 # Olá! 👋 Bem-vindo ao meu perfil GitHub!
 
-Sou um desenvolvedor apaixonado por construir soluções robustas e escaláveis utilizando tecnologias modernas. Meu foco principal está no desenvolvimento backend, mas também possuo experiência com frontend.
+Sou um Analista e Desenvolvedor de Software com experiência em JavaScript Vanilla, TypeScript, NestJS, Postgres, SQL Server, Kubernetes, Docker e outras tecnologias relevantes. Meu foco é entregar soluções de alta qualidade, otimizadas e escaláveis.
+Tenho uma abordagem colaborativa e proativa, buscando constantemente aprimorar minhas habilidades e compartilhar conhecimento com a equipe. Sou movido a desafios e apaixonado por resolver problemas complexos.
 
 ## 🛠️ Tecnologias que utilizo:
 
 **Backend:**
-* ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-* ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-* ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-* ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-
-**Containerização e Orquestração:**
-* ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
-* ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-
-**Outras:**
-* (Aqui você pode adicionar outras tecnologias que mencionou como "entre outras", por exemplo, bancos de dados, ferramentas de desenvolvimento, etc. Se quiser me dizer quais são, posso adicionar os badges também!)
-
-## 🌱 O que eu estou sempre aprendendo:
-
-* (Aqui você pode adicionar áreas que você está estudando ou que tem interesse em explorar no futuro.)
-
-## 🚀 Meus Projetos Destacados:
-
-(Aqui você pode adicionar uma lista dos seus projetos mais relevantes no GitHub, com uma breve descrição de cada um. Por exemplo:)
-
-* **[Nome do Projeto 1](Link do Projeto 1):** Uma breve descrição do projeto e das tecnologias utilizadas.
-* **[Nome do Projeto 2](Link do Projeto 2):** Outra descrição do projeto e tecnologias.
+**Linguagens:**
+* <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+* <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+* <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS"/>
+* <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+* <img src="https://img.shields.io/badge/SQLServer-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server"/>
+* <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+* <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
 
 ## 🤝 Conecte-se comigo:
 
