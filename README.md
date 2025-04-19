@@ -1,4 +1,4 @@
-# Olá! 👋 Bem-vindo ao meu perfil GitHub!
+# Olá! 👋 Bem-vindo!
 
 Sou um Analista e Desenvolvedor de Software com experiência em JavaScript Vanilla, TypeScript, NestJS, Postgres, SQL Server, Kubernetes, Docker e outras tecnologias relevantes. Meu foco é entregar soluções de alta qualidade, otimizadas e escaláveis.
 Tenho uma abordagem colaborativa e proativa, buscando constantemente aprimorar minhas habilidades e compartilhar conhecimento com a equipe. Sou movido a desafios e apaixonado por resolver problemas complexos.
